@@ -25,5 +25,5 @@ Contributions accepted to any of the submodules will eventually make it into a r
 
 ## Support
 
-For support, join the RTX-Remix [discord](https://discord.gg/VgG6SZFtaX)
+For support, join the RTX Remix Showcase [discord](https://discord.gg/j6sh7JD3v9)
 
