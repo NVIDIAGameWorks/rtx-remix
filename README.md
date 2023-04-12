@@ -2,7 +2,7 @@
 
 A runtime engine for adding path-tracing to classic games.
 
-The runtime itself consists of multiple technologies, each with it's own git repo.  This combined repo references those technologies via submodules, at the specific commits that make up the current stable [release](https://github.com/NVIDIAGameWorks/rtx-remix/releases).
+The runtime itself consists of multiple technologies, each with its own git repo.  This combined repo references those technologies via submodules, at the specific commits that make up the current stable [release](https://github.com/NVIDIAGameWorks/rtx-remix/releases).
 
 
 ## Contributions
