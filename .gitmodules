@@ -1,0 +1,3 @@
+[submodule "dxvk-remix"]
+	path = dxvk-remix
+	url = https://github.com/NVIDIAGameWorks/dxvk-remix/
