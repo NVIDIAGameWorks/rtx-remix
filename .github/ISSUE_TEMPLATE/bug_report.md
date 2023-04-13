@@ -9,6 +9,7 @@ assignees: ''
 
 **Describe the bug**
 - A clear and concise description of what the bug is.
+- Which Remix version (include branch and commit info for dxvk and bridge if not a stable build)
 - Which GPU
 - Which GPU driver version
 - Which game build (and whether it is from Steam/GOG/Other)
