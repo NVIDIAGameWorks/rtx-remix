@@ -12,6 +12,7 @@ assignees: ''
 - Which GPU
 - Which GPU driver version
 - Which game build (and whether it is from Steam/GOG/Other)
+- Which OS (Windows 10, 11, etc), build is optional but recommended
 
 **Attach logs!**
 - NvRemixBridge.log
