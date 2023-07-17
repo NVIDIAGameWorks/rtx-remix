@@ -12,7 +12,7 @@ All contributions should be directed towards the individual technology repos (be
 Contributions accepted to any of the submodules will eventually make it into a release.  We'll be aiming to push those out on a monthly basis.
 
 * [dxvk-remix](https://github.com/NVIDIAGameWorks/dxvk-remix/)
-* bridge-remix (running a little bit late, will join soon!)
+* [bridge-remix](https://github.com/NVIDIAGameWorks/bridge-remix/)
 
 
 ## Important Links
