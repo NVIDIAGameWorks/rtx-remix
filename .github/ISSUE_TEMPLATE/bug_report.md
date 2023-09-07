@@ -19,6 +19,10 @@ assignees: ''
 - d3d9.log
 - The game specific log will be named gamename_d3d9.log
 
+**Attach crash dumps!**
+Bridge crash dumps are located in the .trex folder (example: \steamapps\common\GAMENAME\.trex)
+GPU crash dumps are located next to the game executable: (example: \steamapps\common\GAMENAME)
+
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
