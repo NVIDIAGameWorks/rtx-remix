@@ -20,6 +20,7 @@ assignees: ''
 - The game specific log will be named gamename_d3d9.log
 - Used rtx.conf
 - For crashes also attach dump files: {.dmp} for CPU side crashes and {.nv-gpudmp and shaderDebugInfo folder} for GPU side crashes. Automatic GPU dumps can be enabled by setting "dxvk.enableAftermath = True" in dxvk.conf. Zip these files before uploading them.
+  Note, the dumps may contain personally identifiable information.
 
 **To Reproduce**
 Steps to reproduce the behavior:
