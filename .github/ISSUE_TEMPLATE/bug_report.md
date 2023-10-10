@@ -34,4 +34,4 @@ Steps to reproduce the behavior:
 
 **Screenshots**
 - If applicable, add screenshots to help explain your problem.
-- If it is visual issue where the raytraced version is wrong/different in comparison to the rasterized version, attach a screenshot of the rasterized version for reference. You can get view the rasterized version by disabling raytracing (available in debug and debugOptimized builds).
+- If it is a visual issue where the raytraced version is wrong/different in comparison to the rasterized version, attach a screenshot of the rasterized version for reference. You can view the rasterized version by disabling raytracing (available in debug and debugOptimized builds).
