@@ -1,0 +1,39 @@
+name: Documentation feedback
+description: File a documentation feedback
+title: "[Documentation feedback]: "
+labels: ["documentation", "feedback", "triage"]
+assignees:
+  - nvdamien
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this documentation feedback!
+        https://docs.omniverse.nvidia.com/kit/docs/rtx_remix/latest
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details (Optional)
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: what-is-the-feedback
+    attributes:
+      label: Your feedback
+      description: Tell us your feedback about the documentation
+      placeholder: Tell us what you see!
+      value: "I saw an error on the documentation!"
+    validations:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: What browsers are you seeing the problem on?
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge

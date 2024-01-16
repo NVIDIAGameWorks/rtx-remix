@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Runtime bug report
 about: Create a report to help us improve
 title: ''
 labels: ''
