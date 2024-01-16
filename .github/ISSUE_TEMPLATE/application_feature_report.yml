@@ -1,0 +1,65 @@
+name: Application feature/improvement report
+description: File a feature/improvement report for the RTX Remix application
+title: "[Application feature]: "
+labels: ["feature", "application", "triage"]
+assignees:
+  - nvdamien
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this application feature/improvement report!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details (Optional)
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: context-the-feature
+    attributes:
+      label: What is the context of the feature/improvement?
+      description: |
+        Frame your feedback/improvement with context. For example:
+          - Bad: "I just changed a reference and …"
+          - Good: "In Stage in the asset replacement panel, I changed the reference and …"
+      placeholder: Tell us!
+      value: "..."
+    validations:
+      required: true
+  - type: textarea
+    id: describe-feature
+    attributes:
+      label: Please describe the feature/improvement?
+      description: |
+        Be clear and specific. Add screenshots if possible. For example:
+          - Bad: "This UI is confusing"
+          - Good: "This button is difficult to find because it is at the top right of the screen with the size of 10 pixels"
+      placeholder: Tell us!
+      value: "..."
+    validations:
+      required: true
+  - type: textarea
+    id: solution-feature
+    attributes:
+      label: What would be your solution? (optional)
+      description: Describe what would be your solution(s)
+      placeholder: Tell us!
+      value: "..."
+    validations:
+      required: false
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: What version of our application are you running?
+      placeholder: Tell us!
+      value: "202x.x.x"
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        Please add any screenshot(s) or video(s) if you can.

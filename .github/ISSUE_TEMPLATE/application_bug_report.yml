@@ -1,0 +1,63 @@
+name: Application bug report
+description: File a bug report for the RTX Remix application
+title: "[Application bug]: "
+labels: ["bug", "application", "triage"]
+assignees:
+  - nvdamien
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this application bug report!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details (Optional)
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: describe-the-bug
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is
+      placeholder: Tell us!
+      value: "A bug happened..."
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce-the-bug
+    attributes:
+      label: How do you reproduce the bug?
+      description: A clear and concise description of the steps to reproduce the bug
+      placeholder: Tell us!
+      value: "1. Do this.\n2. Do that."
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: What is the expected behavior?
+      description: A clear and concise description about what should be the expected behavior
+      placeholder: Tell us!
+      value: "The application should..."
+    validations:
+      required: false
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: What version of our application are you running?
+      placeholder: Tell us!
+      value: "202x.x.x"
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        Please attach any log (burger menu in the layout app (top left) -> Show logs)!
+  - type: markdown
+    attributes:
+      value: |
+        Please add any screenshot(s) or video(s)
