@@ -1,14 +1,14 @@
-name: Application feature/improvement report
-description: File a feature/improvement report for the RTX Remix application
-title: "[Application feature]: "
-labels: ["feature", "application", "triage"]
+name: Toolkit feature/improvement report
+description: File a feature/improvement report for the RTX Remix toolkit
+title: "[Toolkit feature]: "
+labels: ["feature", "toolkit", "triage"]
 assignees:
   - nvdamien
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this application feature/improvement report!
+        Thanks for taking the time to fill out this toolkit feature/improvement report!
   - type: input
     id: contact
     attributes:
@@ -54,7 +54,7 @@ body:
     id: version
     attributes:
       label: Version
-      description: What version of our application are you running?
+      description: What version of our toolkit are you running?
       placeholder: Tell us!
       value: "202x.x.x"
     validations:
