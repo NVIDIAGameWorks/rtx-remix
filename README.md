@@ -23,7 +23,7 @@ Contributions accepted to any of the submodules will eventually make it into a r
 * [Development Roadmap](https://github.com/NVIDIAGameWorks/rtx-remix/wiki/roadmap)
 
 
-## Support
+## Forums/Support
 
-For support, join the RTX Remix Showcase [discord](https://discord.gg/j6sh7JD3v9)
-
+Looking to contribute to the RTX Remix community or learn more about Remix? Join the thriving [RTX Remix Discord Community](https://discord.gg/j6sh7JD3v9) where you can collaborate with other modders, showcase your projects, and get insight from members of the community. We even have NVIDIA engineers who participate there to work with the community.
+If you have issues to report or feedback to provide on RTX Remix, please always use the [Issues tab](https://github.com/NVIDIAGameWorks/rtx-remix/issues) of our GitHub
