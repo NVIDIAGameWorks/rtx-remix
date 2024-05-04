@@ -2,8 +2,6 @@ name: Runtime Feature/Improvement Request
 description: File a feature/improvement report for the RTX Remix Runtime
 title: "[Toolkit feature]: "
 labels: ["feature", "runtime", "triage"]
-assignees:
-  - nvdamien
 body:
   - type: markdown
     attributes:
