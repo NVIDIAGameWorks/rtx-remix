@@ -1,26 +1,18 @@
 name: Runtime Bug Report
-description: File a bug report for the RTX Remix Runtime
+description: File a bug report for the RTX Remix Runtime, for bugs that occur while a game is running.
 title: "[Runtime Bug]: "
 labels: ["bug", "runtime", "triage"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this toolkit bug report!
-  - type: input
-    id: contact
-    attributes:
-      label: Contact Details (Optional)
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
-    validations:
-      required: false
+        Thanks for taking the time to fill out this runtime bug report! |
+        This form should be used when reporting a bug that occurs when a game is being played with RTX Remix.
   - type: textarea
     id: describe-the-bug
     attributes:
       label: Describe the bug
       description: A clear and concise description of what the bug is
-      placeholder: Tell us!
       value: "A bug happened where..."
     validations:
       required: true
@@ -29,8 +21,6 @@ body:
     attributes:
       label: How do you reproduce the bug?
       description: A clear and concise description of the steps to reproduce the bug
-      placeholder: Tell us!
-      value: "1. Do this.\n2. Do that."
     validations:
       required: true
   - type: textarea
