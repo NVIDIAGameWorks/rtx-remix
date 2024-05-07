@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this runtime bug report! |
+        Thanks for taking the time to fill out this runtime bug report!
         This form should be used when reporting a bug that occurs when a game is being played with RTX Remix.
   - type: textarea
     id: describe-the-bug

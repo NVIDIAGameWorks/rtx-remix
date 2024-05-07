@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this runtime feature request! |
+        Thanks for taking the time to fill out this runtime feature request!
         This form should be used when requesting a feature for when a game is being played with RTX Remix.
   - type: textarea
     id: context-the-feature
