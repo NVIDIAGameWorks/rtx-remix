@@ -1,0 +1,51 @@
+name: Runtime Bug Report
+description: File a bug report for the RTX Remix Runtime, for bugs that occur while a game is running.
+title: "[Runtime Bug]: "
+labels: ["bug", "runtime", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this runtime bug report!
+        This form should be used when reporting a bug that occurs when a game is being played with RTX Remix.
+  - type: textarea
+    id: describe-the-bug
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is
+      value: "A bug happened where..."
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce-the-bug
+    attributes:
+      label: How do you reproduce the bug?
+      description: A clear and concise description of the steps to reproduce the bug
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: What is the expected behavior?
+      description: A clear and concise description about what should be the expected behavior
+      placeholder: Tell us!
+      value: "The runtime should..."
+    validations:
+      required: false
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: What version of the RTX Remix Runtime are you running?
+      placeholder: Tell us!
+      value: "x.x.x"
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        Please attach any logs (d3d9.log, .trex\NvRemixBridge.log, gamename_d3d9.log)!
+  - type: markdown
+    attributes:
+      value: |
+        Please add any screenshot(s) or video(s)

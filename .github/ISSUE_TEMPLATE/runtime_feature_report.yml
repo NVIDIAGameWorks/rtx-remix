@@ -1,0 +1,45 @@
+name: Runtime Feature/Improvement Request
+description: File a feature/improvement report for the RTX Remix Runtime, for features related to a game running with an RTX Remix mod.
+title: "[Runtime Feature]: "
+labels: ["feature", "runtime", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this runtime feature request!
+        This form should be used when requesting a feature for when a game is being played with RTX Remix.
+  - type: textarea
+    id: context-the-feature
+    attributes:
+      label: What is the context of the feature/improvement?
+      description: |
+        Frame your feedback/improvement with context.
+    validations:
+      required: true
+  - type: textarea
+    id: describe-feature
+    attributes:
+      label: Please describe the feature/improvement?
+      description: |
+        Be clear and specific. Add screenshots if possible.
+    validations:
+      required: true
+  - type: textarea
+    id: solution-feature
+    attributes:
+      label: What would be your solution? (optional)
+      description: Describe what would be your solution(s)
+    validations:
+      required: false
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: What version of the RTX Remix Runtime are you running?
+      value: "x.x.x"
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        Please add any screenshot(s) or video(s) if you can.
