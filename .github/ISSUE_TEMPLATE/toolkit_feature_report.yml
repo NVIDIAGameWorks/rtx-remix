@@ -59,7 +59,11 @@ body:
       value: "202x.x.x"
     validations:
       required: true
-  - type: markdown
+  - type: textarea
     attributes:
-      value: |
-        Please add any screenshot(s) or video(s) if you can.
+      label: Media
+      description: Please add any screenshot(s) or video(s)
+      placeholder: Upload here!
+      value: 
+    validations:
+      required: false
