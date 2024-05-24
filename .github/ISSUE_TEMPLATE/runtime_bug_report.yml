@@ -43,9 +43,18 @@ body:
       required: true
   - type: textarea
     attributes:
-      value: |
-        Please attach any logs (d3d9.log, .trex\NvRemixBridge.log, gamename_d3d9.log)!
+      label: Logs
+      description: Please attach any logs (d3d9.log, .trex\NvRemixBridge.log, gamename_d3d9.log)!
+      placeholder: Upload here!
+      value: 
+    validations:
+      required: false
+
   - type: textarea
     attributes:
-      value: |
-        Please add any screenshot(s) or video(s)
+      label: Logs
+      description: Please add any screenshot(s) or video(s)
+      placeholder: Upload here!
+      value: 
+    validations:
+      required: false
