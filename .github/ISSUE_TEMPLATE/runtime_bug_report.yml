@@ -52,7 +52,7 @@ body:
 
   - type: textarea
     attributes:
-      label: Logs
+      label: Media
       description: Please add any screenshot(s) or video(s)
       placeholder: Upload here!
       value: 
