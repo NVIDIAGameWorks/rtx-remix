@@ -53,11 +53,19 @@ body:
       value: "202x.x.x"
     validations:
       required: true
-  - type: markdown
+  - type: textarea
     attributes:
-      value: |
-        Please attach any log (burger menu in the layout app (top left) -> Show logs)!
-  - type: markdown
+      label: Logs
+      description: Please attach any log (burger menu in the layout app (top left) -> Show logs)!
+      placeholder: Upload here!
+      value: 
+    validations:
+      required: false
+  - type: textarea
     attributes:
-      value: |
-        Please add any screenshot(s) or video(s)
+      label: Media
+      description: Please add any screenshot(s) or video(s)
+      placeholder: Upload here!
+      value: 
+    validations:
+      required: false
