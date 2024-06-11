@@ -45,11 +45,18 @@ body:
     attributes:
       label: Logs
       description: Please attach any logs (d3d9.log, .trex\NvRemixBridge.log, gamename_d3d9.log)!
-      placeholder: Upload here!
+      placeholder: Upload logs here!
       value: 
     validations:
       required: false
-
+  - type: textarea
+    attributes:
+      label: Crash dumps
+      description: Please attach any crash dumps (*.dmp, .trex\*.dmp)!
+      placeholder: Upload crash dumps here!
+      value: 
+    validations:
+      required: false
   - type: textarea
     attributes:
       label: Media
