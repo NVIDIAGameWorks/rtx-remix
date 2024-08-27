@@ -3,7 +3,7 @@ description: File a bug report for the RTX Remix toolkit
 title: "[Toolkit bug]: "
 labels: ["bug", "toolkit", "triage"]
 assignees:
-  - nvdamien
+  - nxkb
 body:
   - type: markdown
     attributes:
