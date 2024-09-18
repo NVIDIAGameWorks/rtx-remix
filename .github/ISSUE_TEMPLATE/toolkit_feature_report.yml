@@ -3,7 +3,7 @@ description: File a feature/improvement report for the RTX Remix toolkit
 title: "[Toolkit feature]: "
 labels: ["feature", "toolkit", "triage"]
 assignees:
-  - nvdamien
+  - nxkb
 body:
   - type: markdown
     attributes:
