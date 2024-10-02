@@ -63,6 +63,14 @@ body:
       required: false
   - type: textarea
     attributes:
+      label: Capture and Project Files
+      description: Please attach any project files or game captures if applicable.
+      placeholder: Upload here!
+      value: 
+    validations:
+      required: false
+  - type: textarea
+    attributes:
       label: Media
       description: Please add any screenshot(s) or video(s)
       placeholder: Upload here!
