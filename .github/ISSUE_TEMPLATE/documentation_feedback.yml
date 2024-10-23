@@ -24,7 +24,14 @@ body:
       label: Your feedback
       description: Tell us your feedback about the documentation
       placeholder: Tell us what you see!
-      value: "I saw an error on the documentation!"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL to documentation page
+      description: "Which page of the documentation does this feedback apply to?"
+      placeholder: "https://docs.omniverse.nvidia.com/kit/docs/rtx_remix/latest/..."
     validations:
       required: true
   - type: dropdown
