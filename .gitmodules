@@ -1,9 +1,6 @@
 [submodule "dxvk-remix"]
 	path = dxvk-remix
 	url = https://github.com/NVIDIAGameWorks/dxvk-remix/
-[submodule "bridge-remix"]
-	path = bridge-remix
-	url = https://github.com/NVIDIAGameWorks/bridge-remix.git
 [submodule "toolkit-remix"]
 	path = toolkit-remix
 	url = https://github.com/NVIDIAGameWorks/toolkit-remix
