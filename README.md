@@ -16,6 +16,10 @@ Contributions accepted to any of the submodules will eventually make it into a p
 * [dxvk-remix](https://github.com/NVIDIAGameWorks/dxvk-remix/)
 * [toolkit-remix](https://github.com/NVIDIAGameWorks/toolkit-remix/)
 
+### Related Repositories
+
+* [ComfyUI RTX Remix Nodes](https://github.com/NVIDIAGameWorks/ComfyUI-RTX-Remix)
+
 ## Important Links
 
 * [Download RTX Remix Application](https://www.nvidia.com/en-us/geforce/rtx-remix/)
@@ -25,7 +29,6 @@ Contributions accepted to any of the submodules will eventually make it into a p
 * RTX Remix Runtime [User Guide](https://github.com/NVIDIAGameWorks/rtx-remix/wiki/runtime-user-guide)
 * [RTX Remix Tutorials](https://www.youtube.com/playlist?list=PL4w6jm6S2lzvgJ97T1_VbLGBR_l6zzOUm)
 * [Development Roadmap](https://github.com/NVIDIAGameWorks/rtx-remix/wiki/roadmap)
-* [ComfyUI RTX Remix Nodes](https://github.com/NVIDIAGameWorks/ComfyUI-RTX-Remix)
 
 
 ## Forums, Support & Community Resources
