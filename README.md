@@ -14,7 +14,6 @@ All contributions should be directed towards the individual component repos (bel
 Contributions accepted to any of the submodules will eventually make it into a public release for modders everywhere to experience.
 
 * [dxvk-remix](https://github.com/NVIDIAGameWorks/dxvk-remix/)
-* [bridge-remix](https://github.com/NVIDIAGameWorks/bridge-remix/)
 * [toolkit-remix](https://github.com/NVIDIAGameWorks/toolkit-remix/)
 
 ## Important Links
