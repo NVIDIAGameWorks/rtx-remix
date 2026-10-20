@@ -1,7 +1,7 @@
 [submodule "dxvk-remix"]
 	path = dxvk-remix
 	url = https://github.com/NVIDIAGameWorks/dxvk-remix/
-	branch = release/v1.5
+	branch = main
 [submodule "toolkit-remix"]
 	path = toolkit-remix
 	url = https://github.com/NVIDIAGameWorks/toolkit-remix
