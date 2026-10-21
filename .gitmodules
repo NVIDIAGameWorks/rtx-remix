@@ -5,4 +5,4 @@
 [submodule "toolkit-remix"]
 	path = toolkit-remix
 	url = https://github.com/NVIDIAGameWorks/toolkit-remix
-	branch = release/1.5.x
+	branch = release/1.6.x
